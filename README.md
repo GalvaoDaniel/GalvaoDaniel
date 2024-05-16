@@ -20,6 +20,9 @@
   <!--   FOR MORE BADGES!!          https://shields.io/badges/static-badge         -->
 </div>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 
 <!--
 **GalvaoDaniel/GalvaoDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
