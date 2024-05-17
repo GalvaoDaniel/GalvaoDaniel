@@ -11,6 +11,12 @@
 <!--   FOR MORE ICONS!!          https://devicon.dev/         -->
 </div>
 
+## Badges
+
+<!--START_SECTION:badges-->
+[![Oracle Certified Associate, Java SE 8 Programmer](https://images.credly.com/size/110x110/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png)](http://www.credly.com/badges/89de8bad-33df-4674-89f3-f011da92db1f "Oracle Certified Associate, Java SE 8 Programmer")
+<!--END_SECTION:badges-->
+
 ## Contacts
 
 <div>
@@ -19,10 +25,6 @@
   <a href = "https://galvaodaniel.github.io/"><img src="https://img.shields.io/badge/GitHub%20Pages-black?style=for-the-badge&logo=githubpages"></a>
   <!--   FOR MORE BADGES!!          https://shields.io/badges/static-badge         -->
 </div>
-
-<!--START_SECTION:badges-->
-[![Oracle Certified Associate, Java SE 8 Programmer](https://images.credly.com/size/110x110/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png)](http://www.credly.com/badges/89de8bad-33df-4674-89f3-f011da92db1f "Oracle Certified Associate, Java SE 8 Programmer")
-<!--END_SECTION:badges-->
 
 
 <!--
