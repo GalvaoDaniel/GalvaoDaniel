@@ -21,6 +21,7 @@
 </div>
 
 <!--START_SECTION:badges-->
+[![Oracle Certified Associate, Java SE 8 Programmer](https://images.credly.com/size/110x110/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png)](http://www.credly.com/badges/89de8bad-33df-4674-89f3-f011da92db1f "Oracle Certified Associate, Java SE 8 Programmer")
 <!--END_SECTION:badges-->
 
 
