@@ -14,7 +14,8 @@
 ## Badges
 
 <!--START_SECTION:badges-->
-[![Oracle Certified Associate, Java SE 8 Programmer](https://images.credly.com/size/110x110/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png)](http://www.credly.com/badges/89de8bad-33df-4674-89f3-f011da92db1f "Oracle Certified Associate, Java SE 8 Programmer")
+<a href="https://www.credly.com/badges/282b9282-f782-4745-8eab-2821baf9a6a5" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/89de8bad-33df-4674-89f3-f011da92db1f" title="Oracle Certified Associate, Java SE 8 Programmer"><img src="https://images.credly.com/size/80x80/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" alt="Oracle Certified Associate, Java SE 8 Programmer" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <!--   FOR MORE BADGES!!         Execute Update Badges Action in this repository!!         -->
